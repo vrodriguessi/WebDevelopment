@@ -83,8 +83,8 @@ body.fotos #navegacao a#fotos
 
 #uma-coluna #primario {
 	width: 750px;
-	float: left;
-	margin: 0 15px 20px 195px;
+	float: right;
+	margin: 0 0 20px 195px;
 }
 
 #duas-colunas #primario {
